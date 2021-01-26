@@ -1,2 +1,2 @@
 # vjezba1
-Opis repozitorija
+Opis repozitorijarn
