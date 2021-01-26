@@ -1,2 +1,2 @@
 # vjezba1
-Opis repo  h hzitorijarn
+Opis repo  h iophzitorijarn
