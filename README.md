@@ -1,2 +1,2 @@
 # vjezba1
-Opis repozitorijarn
+Opis repo  h hzitorijarn
