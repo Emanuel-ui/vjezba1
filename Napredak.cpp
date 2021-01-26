@@ -18,6 +18,10 @@ Bbitovni[5]='0';
 Bbitovni[6]='0';
 Bbitovni[7]='0';
 
+	
+	p 
+		
+		
 while(b>0){
 	zz=b%10;
 	Bbitovni[brojac]=zz + '0';
